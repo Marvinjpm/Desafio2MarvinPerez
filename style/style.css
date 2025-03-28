@@ -37,14 +37,22 @@ nav a {
     font-size: 18px;
 }
 
-
+h1{
+    text-align: center;
+}
 
 p{
     font-family: "Oswald", sans-serif;
     justify-content: center;
 }
 
+.inicio{
+    background-image: url(https://www.cosmeticosalamoda.com/cdn/shop/articles/blog_b_13.png?v=1683000473&width=1200);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
 
+}
 
 
 nav ul {
@@ -139,6 +147,7 @@ button:hover {
 
 main {
     padding: 20px;
+    background-color: #FFFAF0;
 }
 
 section {
